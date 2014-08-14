@@ -1,7 +1,7 @@
 GNU/LINUX DISTRIBUTION TIMELINE | ChangeLog
 ===========================================
 
-12.10 (2011-10-23)
+12.10 (2012-10-23)
 * Discontinued distros: Dreamlinux
 * Continued: Damn Small Linux
 * Added 10 distros (total 480): KaarPux, NixOS, OpenELEC, OpenNode, Santoku, Slack/390, Vulnix, Whonix
@@ -11,7 +11,7 @@ GNU/LINUX DISTRIBUTION TIMELINE | ChangeLog
 * Works best with gnuclad 0.2.4
 * When using LibreOffice Calc, turn on "quoted field as text"
 
-12.9 (2011-09-09)
+12.9 (2012-09-09)
 * Discontinued distros: ASP, HostGIS, White Box
 * Continued: Ubuntu Christian Edition
 * Added 50 distros (total 470): Airinux, Amahi, Ångström, ArtistX, Asturix, BackBox, Bedrock, BlackRhino, Bridge, CAINE, Commodore OS, DeLi(cate), Descent|OS, Draco, DRBL, Elementary OS, ELinOS, Hadron, INSERT, KaeilOS, LDR, Liberté, Mandragora, Matriux, Mer, Monomaxos, OpenEmbedded, OpenMediaVault, P@xtreme, Phinx, Polippix, Proxmox, PUIAS, quantOS, Red Ribbon, ROSA, Sage Live CD, SecUntu, ServOS, siduction, Snowlinux, srvRX live, Tango Studio, Tizen, Ubuntu Studio, UserLinux, VINUX, Xamin, Xebian, Zenix OS
@@ -22,14 +22,14 @@ GNU/LINUX DISTRIBUTION TIMELINE | ChangeLog
 * Works best with gnuclad 0.2.4
 * When using LibreOffice Calc, turn on "quoted field as text"
 
-12.2 (2011-02-20)
+12.2 (2012-02-20)
 * Discontinued distros: Chaox, Damn Vulnerable Linux, KateOS
 * Added 10 distros (total 420): 0, Arch Linux ARM, FREESCO, LliureX, Manjaro, MNIS, Nature's Linux, Pingo, Project Ballantin, Unifix
 * Added connectors: Kubuntu->Netrunner
 * Contributors: appzer0, Clemens Tönnies, Dan, David Greekas, Ed Koenig, Esashi Net Groove Administrator, Kaspar Bumke, LliureX Team, mar04, Markus Hagenlocher, Neschur, Pablo, Pierre Morel, Rok Papež, siarhei
 * Works best with gnuclad 0.2.4
 
-12.1 (2011-01-09)
+12.1 (2012-01-09)
 * Discontinued distros: gnuLiNex, gOS
 * Added 11 distros (total 410): Bodhi, Exherbo, FireFly, Pear OS, Kwort, MAX, mkLinux, Tails, Viperr, webOS, XBMC Live
 * Added connectors: Gentoo->Chromium OS, Ubuntu->Deepin, Red Hat->MkLinux
